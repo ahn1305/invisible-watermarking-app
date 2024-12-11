@@ -4,6 +4,10 @@ A Python-based application powered by Streamlit that allows users to embed and e
 
 ---
 
+## Output
+[[Watch the Demo]](https://www.awesomescreenshot.com/video/34551591?key=92e6f3aefc710fb0164ee6332571bfb6)
+
+
 ## **What is Invisible Watermarking?**
 
 Invisible watermarking is a technique used to embed imperceptible marks into digital media, such as images or videos, without affecting their visual quality. These watermarks are generally used to:
