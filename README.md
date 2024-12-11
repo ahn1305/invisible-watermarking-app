@@ -1,5 +1,3 @@
-### **Detailed Project README**
-
 # **Invisible Watermarking Application**
 
 A Python-based application powered by Streamlit that allows users to embed and extract invisible watermarks in images using the Discrete Cosine Transform (DCT). This project includes an intuitive web interface, making it accessible even to non-technical users.
@@ -150,8 +148,11 @@ watermarking-app/
 Contributions are welcome! If you encounter bugs or have feature requests, please open an issue or submit a pull request.
 To know more, read [ContributionGuide](ContributionGuide.md)
 
----
+<a href="https://github.com/ahn1305/invisible-watermarking-app/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=ahn1305/invisible-watermarking-app" />
+</a>
 
+Made with [contrib.rocks](https://contrib.rocks).
 ## **License**
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
